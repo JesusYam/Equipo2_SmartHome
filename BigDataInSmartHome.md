@@ -1,9 +1,6 @@
-
 Proyecto: SmartHome
 
  
 |¿Cómo usaremos Big Data en SmartHome?
-
-|:---:
-
-|A lo largo del proyecto estuvimos buscando la manera en que nuestros datos o los datos que queriamos obtener fueran rentables a corde al proyecto, sin darnos cuenta de como llevar acabo el proyecto, estuvimos implementando varios protocolos que sin duda nos generarron demasiados datos|
+|:---:    
+|A lo largo del proyecto estuvimos buscando la manera en que nuestros datos o los datos que queriamos obtener fueran rentables a corde al proyecto, sin darnos cuenta de como llevar acabo el proyecto, estuvimos implementando varios protocolos que sin duda nos generarron demasiados datos. Entro esos datos fueron los usuarios, la fecha en que nuestros dispositivos se encendieron, la hora, que usuario lo activo, en que habitacion se hizo. Estos datos no nos parecieron demasiado utiles, sin embargo con el estudio de esta materia y en diferentes platicas de como usar los datos, el big data nos ayudara a monitorear estos datos y tener una perspectia mejor de como las personas utilizan nuestros dispositivos con frecuencia, podemos realizar las graficas correspondientes al uso que se le haya dado, y aplicaremos medidas de limpieza de datos con las distintas herramientas que hemos aprendido durante este periodo escolar, por ejmplo: el uso de Python con sus diferentes librerias, como pandas y numpy, una vez que obtengamos estos datos nos permitira tener un mejor panorama de como estan usando nuestro proyecto por las diferentes familias o personas y asi poder hacer un nversion con alguna constructora para implementar smart home desde la construccion de una casa y mostrarle que beneficioso seria para ellos, nosotros y miles de familias yucatecas.
